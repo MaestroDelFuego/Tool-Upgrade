@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        {
+            "item": "minecraft:leather_helmet"
+        }
+    ],
+    "result": {
+        "item": "minecraft:iron_helmet",
+        "count": 1
+    }
+}
